@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(356,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(138,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(137): message : while compiling class template member function 'Kolekcija<int,int,10>::~Kolekcija(void)'
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(373): message : see reference to function template instantiation 'Kolekcija<int,int,10>::~Kolekcija(void)' being compiled
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(373): message : see reference to class template instantiation 'Kolekcija<int,int,10>' being compiled
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(132,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(131): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int,10> &)'
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(377): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int,10> &)' being compiled
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(108): warning C4715: 'Kolekcija<int,int,10>::operator[]': not all control paths return a value
+C:\Users\cortex\source\repos\2020-07-15\2020-07-15\Source.cpp(219): warning C4715: 'Tehnika::AddOcjena': not all control paths return a value
+  2020-07-15.vcxproj -> C:\Users\cortex\source\repos\2020-07-15\Debug\2020-07-15.exe

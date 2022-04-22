@@ -1,0 +1,8 @@
+﻿  2021-16-07 g1.cpp
+C:\Users\cortex\source\repos\2021-16-07 g1\2021-16-07 g1\2021-16-07 g1.cpp(390,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\cortex\source\repos\2021-16-07 g1\2021-16-07 g1\2021-16-07 g1.cpp(143,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\2021-16-07 g1\2021-16-07 g1\2021-16-07 g1.cpp(142): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int,10> &)'
+C:\Users\cortex\source\repos\2021-16-07 g1\2021-16-07 g1\2021-16-07 g1.cpp(408): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int,10> &)' being compiled
+C:\Users\cortex\source\repos\2021-16-07 g1\2021-16-07 g1\2021-16-07 g1.cpp(405): message : see reference to class template instantiation 'Kolekcija<int,int,10>' being compiled
+C:\Users\cortex\source\repos\2021-16-07 g1\2021-16-07 g1\2021-16-07 g1.cpp(88): warning C4715: 'Kolekcija<int,int,10>::operator[]': not all control paths return a value
+  2021-16-07 g1.vcxproj -> C:\Users\cortex\source\repos\2021-16-07 g1\Debug\2021-16-07 g1.exe

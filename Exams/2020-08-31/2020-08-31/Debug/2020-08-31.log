@@ -1,0 +1,23 @@
+﻿  2020-08-31.cpp
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(272,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(323,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(422): error C2259: 'Kandidat': cannot instantiate abstract class
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(296): message : see declaration of 'Kandidat'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(422): message : due to following members:
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(422): message : 'void Korisnik::Info(void)': is abstract
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(293): message : see declaration of 'Korisnik::Info'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(422,36): error C2259: 'Kandidat': cannot instantiate abstract class
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(296): message : see declaration of 'Kandidat'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(422,36): message : due to following members:
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(422,36): message : 'void Korisnik::Info(void)': is abstract
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(293): message : see declaration of 'Korisnik::Info'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(423): error C2259: 'Kandidat': cannot instantiate abstract class
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(296): message : see declaration of 'Kandidat'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(423): message : due to following members:
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(423): message : 'void Korisnik::Info(void)': is abstract
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(293): message : see declaration of 'Korisnik::Info'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(424): error C2259: 'Kandidat': cannot instantiate abstract class
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(296): message : see declaration of 'Kandidat'
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(424): message : due to following members:
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(424): message : 'void Korisnik::Info(void)': is abstract
+C:\Users\cortex\source\repos\2020-08-31\2020-08-31\2020-08-31.cpp(293): message : see declaration of 'Korisnik::Info'
