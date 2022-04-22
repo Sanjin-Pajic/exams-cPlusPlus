@@ -1,0 +1,31 @@
+﻿  Source.cpp
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(316,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(315): message : while compiling class template member function 'StatickaKolekcija<int,100>::~StatickaKolekcija(void)'
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(613): message : see reference to function template instantiation 'StatickaKolekcija<int,100>::~StatickaKolekcija(void)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(613): message : see reference to class template instantiation 'StatickaKolekcija<int,100>' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(272,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(269): message : while compiling class template member function 'StatickaKolekcija<int,100> &StatickaKolekcija<int,100>::operator =(const StatickaKolekcija<int,100> &)'
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(651): message : see reference to function template instantiation 'StatickaKolekcija<int,100> &StatickaKolekcija<int,100>::operator =(const StatickaKolekcija<int,100> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(280,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(262,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(258): message : while compiling class template member function 'StatickaKolekcija<int,100>::StatickaKolekcija(StatickaKolekcija<int,100> &&)'
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(639): message : see reference to function template instantiation 'StatickaKolekcija<int,100>::StatickaKolekcija(StatickaKolekcija<int,100> &&)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(254,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(252): message : while compiling class template member function 'StatickaKolekcija<int,100>::StatickaKolekcija(const StatickaKolekcija<int,100> &)'
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(624): message : see reference to function template instantiation 'StatickaKolekcija<int,100>::StatickaKolekcija(const StatickaKolekcija<int,100> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(185,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(180): message : while compiling class template member function 'DinamickaKolekcija<Datum> &DinamickaKolekcija<Datum>::operator =(const DinamickaKolekcija<Datum> &)'
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(605): message : see reference to function template instantiation 'DinamickaKolekcija<Datum> &DinamickaKolekcija<Datum>::operator =(const DinamickaKolekcija<Datum> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(579): message : see reference to class template instantiation 'DinamickaKolekcija<Datum>' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(167,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(162): message : while compiling class template member function 'DinamickaKolekcija<Datum>::DinamickaKolekcija(const DinamickaKolekcija<Datum> &)'
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(593): message : see reference to function template instantiation 'DinamickaKolekcija<Datum>::DinamickaKolekcija(const DinamickaKolekcija<Datum> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(202,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(198): message : while compiling class template member function 'void DinamickaKolekcija<Datum>::ProsiriKolekciju(int)'
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(210): message : see reference to function template instantiation 'void DinamickaKolekcija<Datum>::ProsiriKolekciju(int)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(236,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(674): message : see reference to function template instantiation 'std::ostream &<<<Sahista>(std::ostream &,const DinamickaKolekcija<Sahista> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(330,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(621): message : see reference to function template instantiation 'std::ostream &<<<int,100>(std::ostream &,const StatickaKolekcija<int,100> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5\Vjezbe 5\Source.cpp(393): warning C4715: 'Sahista::operator=': not all control paths return a value
+  Vjezbe 5.vcxproj -> C:\Users\cortex\source\repos\Vjezbe 5\Debug\Vjezbe 5.exe

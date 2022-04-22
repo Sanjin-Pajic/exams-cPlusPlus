@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(490,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(509,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(516,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(551,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(565,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(604,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(609,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(622,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(658,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(285): warning C4715: 'Clan::operator=': not all control paths return a value
+C:\Users\cortex\source\repos\Vjezbe 4\Vjezbe 4\Source.cpp(520): warning C4715: 'Sekcija::operator=': not all control paths return a value
+  Vjezbe 4.vcxproj -> C:\Users\cortex\source\repos\Vjezbe 4\Debug\Vjezbe 4.exe

@@ -1,0 +1,37 @@
+﻿  Source.cpp
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(360,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(384,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(408,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(416,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(471,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(287,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(286): message : while compiling class template member function 'bool Vektor<int>::CheckIfSadrzi(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(618): message : see reference to function template instantiation 'bool Vektor<int>::CheckIfSadrzi(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(528): message : see reference to class template instantiation 'Vektor<int>' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(239,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(233): message : while compiling class template member function 'Vektor<int> &Vektor<int>::operator =(const Vektor<int> &)'
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(585): message : see reference to function template instantiation 'Vektor<int> &Vektor<int>::operator =(const Vektor<int> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(216,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(212): message : while compiling class template member function 'Vektor<int>::Vektor(const Vektor<int> &)'
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(550): message : see reference to function template instantiation 'Vektor<int>::Vektor(const Vektor<int> &)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(262,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(258): message : while compiling class template member function 'void Vektor<Datum>::ProsiriVektor(int)'
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(273): message : see reference to function template instantiation 'void Vektor<Datum>::ProsiriVektor(int)' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(784): message : see reference to class template instantiation 'Vektor<Datum>' being compiled
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(30,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(754): message : see reference to function template instantiation 'void IspisNiza<T>(T [],int,const char *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(317,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 5.1\Vjezbe 5.1\Source.cpp(788): message : see reference to function template instantiation 'std::ostream &<<<Datum>(std::ostream &,const Vektor<Datum> &)' being compiled
+  Vjezbe 5.1.vcxproj -> C:\Users\cortex\source\repos\Vjezbe 5.1\Debug\Vjezbe 5.1.exe

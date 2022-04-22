@@ -1,0 +1,5 @@
+﻿  Vjezbe 2.cpp
+C:\Users\cortex\source\repos\Vjezbe 2\Vjezbe 2\Vjezbe 2.cpp(200,21): warning C4552: '-': result of expression not used
+C:\Users\cortex\source\repos\Vjezbe 2\Vjezbe 2\Vjezbe 2.cpp(299,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cortex\source\repos\Vjezbe 2\Vjezbe 2\Vjezbe 2.cpp(483,30): warning C4018: '<': signed/unsigned mismatch
+  Vjezbe 2.vcxproj -> C:\Users\cortex\source\repos\Vjezbe 2\Debug\Vjezbe 2.exe
